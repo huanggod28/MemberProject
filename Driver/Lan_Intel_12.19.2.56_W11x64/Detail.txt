@@ -1,0 +1,13 @@
+[INFORMATION]
+Projects=Aperta;Andrey;AndreyR;Arteon;Asti;Carlos;Cava;Cayenne;cEspresso;Coric;Corvina;Rafael;Roma;Romeo;Shangqi_N720;vAncona;Vantage;vAntmanR;vAsti;Veneno;VeritonD1;VeritonE1;vHubble;vKepler;vLongmen2;vLongmen3;vMacchiato;vRaccoon;vTianyan;WenxiangE525;
+OSs=Windows 10 All X64;Windows Next All X64;
+WHQL=Y,
+ProviderFullName=INTEL
+SelectedDriverType=Use Inf
+Installer=%RELATIVE_PATH%\Install.cmd
+Parameters=
+InfFiles=%RELATIVE_PATH%\e1d.inf;
+DriverUtilityInstaller=
+DriverUtilityParameters=
+UWPSourceFolder=
+UWPInstaller=

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModuleInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ModulePN>MOD01?????00??????</ModulePN>
+  <Creator PN="01" Name="Acer-HQ1" />
+  <Type PN="" Name="Drivers" />
+  <Module PN="" Name="INTEL LAN Generic Driver" Alias="" GUID="" Serial="Generic Driver" Provider="INTEL" Class="LAN" />
+  <WOS PN="93" Sku="WN All" CPU="X64" />
+  <Lang>All language</Lang>
+  <ModuleVersion>vi219_12.19.2.56</ModuleVersion>
+  <DriverVersion>v12.19.2.56</DriverVersion>
+  <OptionVersion>Install.cmd</OptionVersion>
+  <ProjectCodeName>NULL</ProjectCodeName>
+  <OdmName>DTECS</OdmName>
+  <ModuleTimeout>0</ModuleTimeout>
+  <InstallPreiod>SCD_WinPE</InstallPreiod>
+  <Reboot>False</Reboot>
+  <Delete>False</Delete>
+  <ReinstallProcessList>
+    <Process Country="" OS-Language="" OS-Sku="" Check="" Timeout="0" RetCode="-" Params="" Exec="%RELATIVE_PATH%\Install.cmd" Order="00" Period="" />
+  </ReinstallProcessList>
+  <AutoRun>True</AutoRun>
+  <InstallPath />
+  <Description />
+  <ProcessList>
+    <Process Country="" OS-Language="" OS-Sku="" Check="False" Timeout="0" RetCode="-" Params="" Exec="%RELATIVE_PATH%\Install.cmd" Order="00" Period="" />
+  </ProcessList>
+  <RegItemList />
+  <ModuleProperty>RCD,STCD,RSCD</ModuleProperty>
+  <HWIDs>PCI\VEN_8086&amp;DEV_15BC&amp;SUBSYS_144B1025;PCI\VEN_8086&amp;DEV_0D4C&amp;SUBSYS_144D1025;PCI\VEN_8086&amp;DEV_0D4C&amp;SUBSYS_144E1025;PCI\VEN_8086&amp;DEV_15F9&amp;SUBSYS_15621025;PCI\VEN_8086&amp;DEV_15F9&amp;SUBSYS_15421025;PCI\VEN_8086&amp;DEV_1A1D&amp;SUBSYS_158F1025;PCI\VEN_8086&amp;DEV_1A1D&amp;SUBSYS_16581025;PCI\VEN_8086&amp;DEV_0DC7&amp;SUBSYS_16661025;PCI\VEN_8086&amp;DEV_0DC8&amp;SUBSYS_16671025</HWIDs>
+  <AutoCheckHWID>False</AutoCheckHWID>
+  <CheckRemove>False</CheckRemove>
+  <PackageFamilyName />
+  <MVPKernelVersion>2.0.8.0</MVPKernelVersion>
+  <MVPUIVersion>2.0.9.6</MVPUIVersion>
+  <LOB>Desktop</LOB>
+</ModuleInfo>
