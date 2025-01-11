@@ -7,4 +7,4 @@
 
 [driver](Driver/Lan_Intel_12.19.2.56_W11x64)
 
-![101](pic/101.jpj)
+![101](pic/101.jpg)
