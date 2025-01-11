@@ -1,0 +1,25 @@
+@charset "UTF-8";
+#title{
+	width:50%;
+	background-color:#00B0F0;
+	height:150px;
+	margin-left:25%;
+	color:white;
+	text-align:center;
+}
+#content{
+	width:50%;
+	background-color:#FCEEEE;
+	height:400px;
+	margin-left:25%;
+	color:black;
+	text-align:center;
+}
+#footer{
+	width:50%;
+	background-color:#00FF00;
+	height:150px;
+	margin-left:25%;
+	color:white;
+	text-align:center;
+}
